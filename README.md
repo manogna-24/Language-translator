@@ -1,1 +1,1 @@
-# manogna-projects
+This Python project offers a user-friendly GUI for language translation and text-to-speech conversion. Users can input text and choose a target language from a dropdown menu. The application uses Google Translate for translation and Google Text-to-Speech for speech synthesis. It displays the translated text in the GUI and allows users to listen to it in the selected language. With a simple interface and a "Translate" button, it's a handy tool for language learners and anyone interested in multilingual text conversion.
